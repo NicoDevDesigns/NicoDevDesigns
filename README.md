@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋  soy Nicolas / java developer ✨ </h1> 
 
-<p align="left">
+<p align="center">
+  <a href="https://github.com/NicoDevDesigns"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-Developer;Always%20learning%20new%20tech&font=serif&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 
 <a href="www.linkedin.com/in/nicolas-sanchez-dev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -8,17 +10,19 @@
 <a href = "mailto:sancheznicolasalejandro@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+<h2>About Me 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 Java developer
+🎓 Java developer, JPA, Java EE, JSP
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+💻 Web application developer.
+- ⭐ currently working on freelance **web-development**
+- FrontEnd
+- BackeEnd
 
-💻 Desarrollador de aplicaciones web
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance...
+📝 roles en el ámbito: desarrollador... líder... emprendedor... programador freelance...
 
 📫 Contacto: **sancheznicolasalejandro@gmail.com**
 <!--Intro end-->
@@ -29,7 +33,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,dotnet,css,html,js,nodejs,mysql,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,css,html,js,nodejs,mysql,firebase,git,github,docker,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
