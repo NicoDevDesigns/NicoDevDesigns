@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://github.com/NicoDevDesigns"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-Developer;Always%20learning%20new%20tech&font=serif&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
-
 <br>
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2>About Me 😃</h2>
