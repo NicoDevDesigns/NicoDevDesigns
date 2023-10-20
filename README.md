@@ -25,7 +25,7 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >tech stack FrontEnd👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -33,6 +33,7 @@
   </a>
 </p>
 <br>
+<h2 >tech stack BackEnd👨🏻‍💻</h2>
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
