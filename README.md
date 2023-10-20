@@ -25,16 +25,29 @@
   </p>
 <br>
 
-<h2 >tech stack FrontEnd👨🏻‍💻</h2>
+<h2 >Stack FrontEnd</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,css,html,js,nodejs,mysql,firebase,git,github,docker,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,react,sass,vscode&perline=12" />
   </a>
 </p>
 <br>
-<h2 >tech stack BackEnd👨🏻‍💻</h2>
+<h2 >Stack BackEnd</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,js,nodejs,mysql,firebase,git,github,docker,postman,vscode,bash,linux,spring,postman,mongodb&perline=12" />
+  </a>
+</p>
+<br>
 <!-------------------------->
+<h2> Frameworks and Libraries</h2>
+
+<p>
+<a href="https://github.com/"><img alt="react" src="https://img.shields.io/badge/React-2088FF?logo=React&logoColor=fff&style=flat"></a>
+<a href="https://wordpress.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-21759B?logo=Bootstrap&logoColor=fff&style=flat"></a>
+<a href="https://github.com/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-2088FF?logo=Node.js&logoColor=fff&style=flat"></a>
+</p>
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 
