@@ -9,7 +9,9 @@
 <!--Intro start-->
 
 <p align="left">
+🎓 Electronic Engineering student passionate about development and entrepreneurship.
 🎓 Java developer, JPA, Java EE, JSP
+
 
 💻 Web application developer.
 - ⭐ currently working on freelance **web-development**
@@ -79,6 +81,14 @@
       src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
       alt="Viral Bhadeshiya" height="30" width="auto" /></a>
 </p>
+
+### Competitive Programming Profiles <!-- -->
+
+<a href="https://leetcode.com/sancheznicolasalejandro/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
+<a href="https://codeforces.com/profile/sancheznicolasalejandro">![](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white) </a> 
+<a href="https://www.codechef.com/users/sancheznicolas">![](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
+<a href="https://www.hackerrank.com/profile/sancheznicolasa1" target="blank">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+<a href="https://www.hackerearth.com/@sancheznicolasalejandro">![](https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)</a>
 <!------------------------->
 <div id="apoyo">
 <h2>Si quieres apoyarme </h2>
