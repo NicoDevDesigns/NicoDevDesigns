@@ -50,7 +50,7 @@
 
 </div>
 <br>
-## Connect with me:
+<h2 >Connect with me</h2>
 <p align="left">
   <a href="www.linkedin.com/in/nicolas-sanchez-dev/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -70,11 +70,11 @@
 
 ### Competitive Programming Profiles <!-- -->
 
-<a href="https://leetcode.com/sancheznicolasalejandro/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
-<a href="https://codeforces.com/profile/sancheznicolasalejandro">![](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white) </a> 
-<a href="https://www.codechef.com/users/sancheznicolas">![](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
-<a href="https://www.hackerrank.com/profile/sancheznicolasa1" target="blank">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
-<a href="https://www.hackerearth.com/@sancheznicolasalejandro">![](https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)</a>
+<a href="https://leetcode.com/sancheznicolasalejandro/" target="_blank">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
+<a href="https://codeforces.com/profile/sancheznicolasalejandro" target="_blank">![](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white) </a> 
+<a href="https://www.codechef.com/users/sancheznicolas" target="_blank">![](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
+<a href="https://www.hackerrank.com/profile/sancheznicolasa1" target="_blank">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+<a href="https://www.hackerearth.com/@sancheznicolasalejandro" target="_blank">![](https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)</a>
 <!------------------------->
 <div id="apoyo">
 
