@@ -73,8 +73,8 @@
 <a href="https://leetcode.com/sancheznicolasalejandro/" target="_blank">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
 <a href="https://codeforces.com/profile/sancheznicolasalejandro" target="_blank">![](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white) </a> 
 <a href="https://www.codechef.com/users/sancheznicolas" target="_blank">![](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
-<a href="https://www.hackerrank.com/profile/sancheznicolasa1" target="_blank">![](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
-<a href="https://www.hackerearth.com/@sancheznicolasalejandro" target="_blank">![](https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)</a>
+<a href="https://www.hackerrank.com/profile/sancheznicolasa1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.hackerearth.com/@sancheznicolasalejandro" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white"/></a>
 <!------------------------->
 <div id="apoyo">
 
