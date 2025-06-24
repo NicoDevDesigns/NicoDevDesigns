@@ -9,7 +9,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Electronic Engineering student passionate about development and entrepreneurship.
+🎓 software developer student passionate about development and entrepreneurship.
 🎓 Java developer, JPA, Java EE, JSP
 
 
